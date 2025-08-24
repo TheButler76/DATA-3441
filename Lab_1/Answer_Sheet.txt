@@ -1,0 +1,60 @@
+1.)
+(a) The cases are: 50 different varieties of coffee.
+(b) The variables are Coffee Name (nominal), Coffee Price per 12oz serving (measured in ounces), Customer Ratings (Interval scale of 0-100), Coffee Roast (Categorical variable), Coffee Flavor (Categorical variable), Coffee Aroma (Categorical variable), Coffee Body Ratings (Interval scale 0-10).
+(c) {Coffee Name: Categorical,
+    Coffee Price: Quantitative,
+    Customer Ratings: Quantitative,
+    Coffee Roast: Categorical,
+    Coffee Flavor: Categorical,
+    Coffee Aroma: Categorical,
+    Coffee Body Ratings: Quantitative}
+(d) Coffee Name because there is only one possible name for each other variable in the data set.
+(e) The key characteristics of this data set is that the website is that they are measuring 12 ounce cups with different flavors and then comparing the customer ratings for each name of coffee.
+
+2.)
+(a) The cases are: 20 students with three different joystick controller types.
+(b) The variables are: Student Name (string), Joystick Type (string), Time (float), Student Age (int), Satisfaction Rating (range(int,int))
+(c) {Student Name: Categorical,
+    Joystick Type: Categorical,
+    Time: Quantatative,
+    Student Age: Quantitative,
+    Satisfaction Rating: Quantitative}
+(d) The key characteristics of this data set is that the experiment on haptic feedback uses time as a dependent variable and joystick type as an independent variable to test whether students are interested in haptic feedback.
+
+3.) 
+(a) The cases are:
+(b) The variables are:
+(c) {}
+(d) [desc]
+(e) [desc]
+
+4.) 
+[Use a bar graph to describe the percents of frequent users of these sites and write a short
+summary of the data based on your graph]
+[create a bar graph with pandas or SAS]
+
+5.) 
+(a) [create a bar graph with pandas or SAS]
+(b) [create a pie chart with pandas or SAS]
+(c) [choose your fav graph. Explain why it is your favorite]
+
+6.)
+[Sketch a skewed distribution. Sketch a histogram for a distribution that is
+skewed to the left. Suppose that you and your friends emptied your pockets of coins and
+recorded the year marked on each coin. The distribution of dates would be skewed to the
+left. Explain why.]
+[If its skewed to the left that would mean that the coins were minted later (closer to present-day) which could suggest that older coins are either lost, destroyed, or are slowly going out of circulation by specific plan by the IRS.]
+
+7.) [For the aptly named `ex01-026sevengr-1.csv` file]
+
+8.) [For the aptly named `ex01-034ksup40.csv` file]
+
+9.) 
+(a) [compute the mean]
+(b) [compute the median]
+(c) [subjective question. You may include a graphical summary as part of your explaination.]
+
+10.) [a contiuation of question 9.]
+(a) [compute std.]
+(b) [compute the IQR (bottom 25% & top 75%)]
+(c) [subjective question. You may include a graphical summary as part of your explaination.]
